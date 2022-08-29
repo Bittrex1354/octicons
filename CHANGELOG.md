@@ -1,5 +1,11 @@
 # Changelog
 
+## 17.5.1
+
+### Patch Changes
+
+- [#831](https://github.com/primer/octicons/pull/831) [`57f364a`](https://github.com/primer/octicons/commit/57f364a7e234080781355cd57fcf3bdd75b05af4) Thanks [@josepmartins](https://github.com/josepmartins)! - Adjust flex wrap in UI examples.Fixes #731
+
 ## 17.5.0
 
 ### Minor Changes
